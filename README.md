@@ -1,0 +1,2 @@
+# SpaceCoin
+🛸 Another useless cryptocurrency
